@@ -28,3 +28,31 @@ C:\Users\Syion\documents\visual studio 2015\Projects\IloiloCityCommunityCollege\
 C:\Users\Syion\documents\visual studio 2015\Projects\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\pageAccounting.baml
 C:\Users\Syion\documents\visual studio 2015\Projects\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\pageAdmin.baml
 C:\Users\Syion\documents\visual studio 2015\Projects\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\pageReg.baml
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\bin\Debug\IloiloCityCommunityCollege.exe.config
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\IloiloCityCommunityCollege.exe
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\IloiloCityCommunityCollege.pdb
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\bin\Debug\IloiloCityCommunityCollege.exe
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\bin\Debug\IloiloCityCommunityCollege.pdb
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\IloiloCityCommunityCollege.csprojResolveAssemblyReference.cache
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\pageAccounting.g.cs
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\pageAdmin.g.cs
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\pageMain.g.cs
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\pageReg.g.cs
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\pageStudent.g.cs
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\windowLogin.g.cs
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\windowMain.g.cs
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\windowSetSchoolYear.g.cs
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\App.g.cs
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\IloiloCityCommunityCollege_MarkupCompile.cache
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\IloiloCityCommunityCollege_MarkupCompile.lref
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\pageAccounting.baml
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\pageAdmin.baml
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\pageMain.baml
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\pageReg.baml
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\pageStudent.baml
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\windowLogin.baml
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\windowMain.baml
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\windowSetSchoolYear.baml
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\IloiloCityCommunityCollege.g.resources
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\IloiloCityCommunityCollege.Properties.Resources.resources
+C:\Users\maria\Desktop\testing\IloiloCityCommunityCollege\IloiloCityCommunityCollege\obj\Debug\IloiloCityCommunityCollege.csproj.GenerateResource.Cache

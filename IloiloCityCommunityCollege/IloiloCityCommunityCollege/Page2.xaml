@@ -1,0 +1,31 @@
+﻿<Page x:Class="WpfApplication2.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApplication2"
+      mc:Ignorable="d"
+      Title="Page1" Height="161.702" Width="344.078">
+    <Border BorderThickness="2" CornerRadius="10" Background="#FF023A59">
+        <Border.Effect>
+            <DropShadowEffect/>
+        </Border.Effect>
+        <Grid Height="169">
+            <Grid Margin="10,10,10,76">
+                <StackPanel Orientation="Horizontal" Margin="28,-4,-28,4">
+                    <Image Source="images/user-login-icon.png"/>
+                    <Label Content="Employee" Foreground="White" FontFamily="Adobe Gothic Std B" FontSize="36" Margin="10,-2,0,-7" Width="216"/>
+                </StackPanel>
+            </Grid>
+            <Grid Margin="20,92,20,41">
+                <StackPanel Orientation="Horizontal" Margin="44,0,-44,-17">
+                    <Label Content="PASSWORD:" Margin="0,0,0,10" Foreground="White"/>
+                    <PasswordBox Name="pword1" Height="20" Width="143" Margin="0,4,0,29"/>
+                </StackPanel>
+            </Grid>
+            <Grid Margin="224,125,58,26">
+                <Button Name="empbtn" Content="LOG IN" FontSize="9"/>
+            </Grid>
+        </Grid>
+    </Border>
+</Page>

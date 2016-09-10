@@ -1,0 +1,14 @@
+﻿<Window x:Class="IloiloCityCommunityCollege.windowSetSchoolYear"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IloiloCityCommunityCollege"
+        mc:Ignorable="d"
+        Title="windowSetSchoolYear" Height="167.217" Width="300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBox x:Name="txtschoolyear" HorizontalAlignment="Left" Height="24" Margin="22,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="260"/>
+        <Button x:Name="btnset" Content="Set" HorizontalAlignment="Left" Margin="106,94,0,0" VerticalAlignment="Top" Width="74" Click="btnset_Click"/>
+
+    </Grid>
+</Window>
